@@ -1,4 +1,4 @@
-# ml_bonus
+# Advanced Machine Learning Bonus Project
 Bonus Assignment for the ML-lecture for WWI-DSA-18 at DHBW Mannheim
 
 In this Repository I worked on Copycat CNN and Knockoff Nets via their respectiv Trusted-AI implementation in the Adversarial Robustness Toolbox.
