@@ -13,3 +13,12 @@ The PDF and the Assigment_9936663.ipynb make up the proposal for the assignment,
 [Own_Knockoff](https://github.com/FatManWalking/ml_bonus/blob/main/Own_Knockoff.ipynb) is a failed approch, which took me much time and effort trying to solve conflicts between PyTorch, Tensorflow 1 and 2 and the used ART Framework. It helped me understand the topic but does as of today not properly work.
 
 [Simple](https://github.com/FatManWalking/ml_bonus/blob/main/Simple_Demonstration.py) is a very simplfied version of Own_Knockoff and was just for me to understand the framework better.
+
+
+Google Drive Links to Models and Data:
+
+- [Bees and Ants](https://drive.google.com/drive/folders/1gUbGzQ5vPbUqa9toMNMOiCB5_XW-qa4E?usp=sharing)
+- [Victim-Model](https://drive.google.com/file/d/1-N_JyEweW04Hp4AP89iRreywGkYGSOX8/view?usp=sharing)
+- [Trained_Copycat VGG](https://drive.google.com/file/d/1cXp1h0aGMyFc1LXMDXZ8Hjq_PYGNXX4C/view?usp=sharing)
+- [Trained Copycat Res](https://drive.google.com/file/d/1-3oySTgLph1iAioOMHC9elhzaruIyQ_8/view?usp=sharing)
+- [Trained Victim VGG in the Failed Approch](https://drive.google.com/file/d/1mHaKVhgT6Uv3_dWzYETLF4wR3o4leXvA/view?usp=sharing)
